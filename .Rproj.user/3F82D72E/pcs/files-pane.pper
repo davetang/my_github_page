@@ -1,0 +1,9 @@
+{
+    "path" : "~/github/my_github_page",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
